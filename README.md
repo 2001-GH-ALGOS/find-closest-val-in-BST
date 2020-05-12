@@ -13,4 +13,11 @@ Each BST node has an integer value, a left child node, and right child node. A n
 tree =      10
           /    \
          5      15
+        / \     / \
+       2   5  13   22
+     /         \
+    1           14
+
+target = 12
+
 ```
